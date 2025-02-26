@@ -4,6 +4,7 @@ Why make this? It looks cool and is a very small amount of LOC. If you increase 
 
 # Dependencies
 You'll need the numpy, numba, matplotlib and tkinter libraries for this. If you don't already have these, just do the following:
+
 	pip install numpy numba matplotlib tkinter
 
 Then run julia-set.py, and enjoy.
