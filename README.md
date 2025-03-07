@@ -8,4 +8,4 @@ You'll need the numpy, numba, matplotlib and tkinter libraries for this. These a
 
 	pip install numpy numba matplotlib tkinter
 
-Then run julia-set.py, and enjoy.
+Then run julia-set.py.
