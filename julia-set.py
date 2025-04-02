@@ -1,4 +1,4 @@
-#Sorry for the lack of documentation!
+#Sorry for the lack of comments! it's self-evident what every part does, and really not a large project at all
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
